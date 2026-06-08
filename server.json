@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/cricket",
+  "title": "Cricket",
+  "description": "Cricket MCP — wraps CricAPI (api.cricapi.com) for live cricket data.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/cricket",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-cricket",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/cricket/mcp"
+    }
+  ]
+}

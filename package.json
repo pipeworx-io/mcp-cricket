@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-cricket",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cricket MCP — wraps CricAPI (api.cricapi.com) for live cricket data.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-15c936495797102341b86a591c03af4e1d527d63cfb516278cb8cef97c31c474",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-1b38ec13c35959f400715fa46ce71fa669c5e863a9de4289ddac2344a9bdcc2f",
+    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
   }
 }

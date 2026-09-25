@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/cricket",
   "title": "Cricket",
   "description": "Cricket MCP — wraps CricAPI (api.cricapi.com) for live cricket data.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/cricket",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-cricket",

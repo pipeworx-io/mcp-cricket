@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-cricket",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Cricket MCP — wraps CricAPI (api.cricapi.com) for live cricket data.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "cricket",
     "gatewaySlug": "cricket",
-    "sourceHash": "v1-cf169745e17db24eefbcfa632c8432b55541ea8f2b36e26d6d1a03d0ce295bf2",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-4a97cc448f6914b9d6ec394594e9a6ebed16e3247729dca30c3fc346e3c68032",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
